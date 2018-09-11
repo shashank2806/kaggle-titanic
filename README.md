@@ -1,4 +1,4 @@
-# Titanic: Machine Learning from Disaster. Predict survival on the Titanic with ML.
+# Titanic: Machine Learning from Disaster. Predict survival on the Titanic with ML. ![Awesome](https://awesome.re/badge-flat.svg) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 This is my approch of predicting titanic saviours and a intro to Kaggle competitions.
 
